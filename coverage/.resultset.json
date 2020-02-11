@@ -36,6 +36,19 @@
     "coverage": {
       "/Users/leesihoney/Documents/CMU/Spring 2020/67-272/labs/lab05/ChoreTracker/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        3,
+        2,
+        null,
+        null,
+        1,
+        3,
+        null,
         null,
         null
       ],
@@ -45,8 +58,8 @@
         null
       ],
       "/Users/leesihoney/Documents/CMU/Spring 2020/67-272/labs/lab05/ChoreTracker/app/models/chore.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/leesihoney/Documents/CMU/Spring 2020/67-272/labs/lab05/ChoreTracker/app/models/task.rb": [
         0,
@@ -304,6 +317,6 @@
         0
       ]
     },
-    "timestamp": 1581460145
+    "timestamp": 1581460796
   }
 }
